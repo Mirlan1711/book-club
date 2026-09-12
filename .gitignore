@@ -1,0 +1,3 @@
+# Временные данные PHP-сессий
+book-club/storage/sessions/*
+!book-club/storage/sessions/.gitkeep
